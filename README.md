@@ -13,10 +13,9 @@
  
  
  
-[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/amit17133129)
-[![Linkedin Badge](https://img.shields.io/badge/-Amit%20Sharma-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/amit-sharma-35439016a/)](https://www.linkedin.com/in/amit-sharma-35439016a//) [![Twitter Badge](http://img.shields.io/badge/-@AmitSharma-1ca0f1?style=social&logo=twitter&logoColor=blue&link=https://twitter.com/AmitSha57543491)](https://twitter.com/AmitSha57543491) [![GitHub followers](https://img.shields.io/github/followers/hac?label=Follow&style=social)](https://github.com/amit17133129)
-![GitHub Stars](https://img.shields.io/github/stars/amit17133129?style=social)
-[![Instagram Badge](https://img.shields.io/badge/-AmitSharma-blue?style=social&logo=Instagram&link=https://www.instagram.com/the_interstellar_guy/?hl=en/)](https://www.instagram.com/the_interstellar_guy/?hl=en/) 
+[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/parthdeokar)
+[![Linkedin Badge](https://img.shields.io/badge/-Amit%20Sharma-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/parth-praveendeokar/)](https://www.linkedin.com/in/parth-praveendeokar/) [![Twitter Badge](http://img.shields.io/badge/-@AmitSharma-1ca0f1?style=social&logo=twitter&logoColor=blue&link=https://twitter.com/ParthDeokar)](https://twitter.com/ParthDeokar) [![GitHub followers](https://img.shields.io/github/followers/hac?label=Follow&style=social)](github.com/parthdeokar)
+
 
 
 
@@ -35,7 +34,7 @@
 
 ## About Me ✍
  
- I m <b> Amit Sharma</b>, a pursuing <b>Computer Science Engineer</b> Currently Head Technical Volunteer [<b>ARTH THE SCHOOL OF TECHNOLOGIES</b>](https://rightarth.com/) under the mentorship of [<b>Mr. Vimal Daga</b>](https://www.linkedin.com/in/vimaldaga/) sir.  As a professional, I have the immense aptitude for learning and the ability to adapt and excel in a multicultural environment. As a person, I am friendly and good at motivating people in a team environment. With my hard work, I developed effective research and analytical skills as well as the ability to meet deadlines under pressure. I always passionate about understanding the core concepts behind different popular Technological Fields. 
+ I m <b> Parth Praveen Deokar</b>, Completed by B-Tech  in <b>Computer Science Engineer from SRM Institute of Science and Technology</b> Currently Technical Volunteer [<b>ARTH THE SCHOOL OF TECHNOLOGIES</b>](https://rightarth.com/) under the mentorship of [<b>Mr. Vimal Daga</b>](https://www.linkedin.com/in/vimaldaga/) sir. And As a professional working as Software Developer in Aspire System(India) , I have the immense aptitude for learning and the ability to adapt and excel in a multicultural environment. As a person, I am friendly and good at motivating people in a team environment. With my hard work, I developed effective research and analytical skills as well as the ability to meet deadlines under pressure. I always passionate about understanding the core concepts behind different popular Technological Fields. 
 
 
 </div>
@@ -76,7 +75,7 @@ As we all know that under <b>engineering</b>, technical skills always provide un
  [![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=ffffff)](https://kubernetes.io/)
  [![Ansible](https://img.shields.io/badge/-ansible-326CE5?style=flat-square&logo=ansible&logoColor=000000)](https://ansible.io/)
 <a href="https://dev.to/amit17133129">
-  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="amitsharma's DEV Profile" height="30" width="30">
+  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Parth DEV Profile" height="30" width="30">
 </a>
 <p align="center">
   <img src="https://github.com/amit17133129/amit17133129/blob/main/MySkills.gif?raw=true"/>
