@@ -27,14 +27,14 @@
 <!--About Me-->
 <div>
  <p>
-  <img width="240" height="230" align='right' src="https://avatars1.githubusercontent.com/u/55508548?s=460&u=5b041974d3feb19088000e9444eb105d62412b2e&v=4"> 
+  <img width="240" height="230" align='right' src="https://bit.ly/3dDVpj4"> 
 </p>
   
 
 
 ## About Me ✍
  
- I m <b> Parth Praveen Deokar</b>, Completed by B-Tech  in <b>Computer Science Engineer from SRM Institute of Science and Technology</b> Currently Technical Volunteer [<b>ARTH THE SCHOOL OF TECHNOLOGIES</b>](https://rightarth.com/) under the mentorship of [<b>Mr. Vimal Daga</b>](https://www.linkedin.com/in/vimaldaga/) sir. And As a professional working as Software Developer in Aspire System(India) , I have the immense aptitude for learning and the ability to adapt and excel in a multicultural environment. As a person, I am friendly and good at motivating people in a team environment. With my hard work, I developed effective research and analytical skills as well as the ability to meet deadlines under pressure. I always passionate about understanding the core concepts behind different popular Technological Fields. 
+ I m <b> Parth Praveen Deokar</b>, Completed My B-Tech  in [<b>Computer Science Engineer from SRM Institute of Science and Technology</b>] Currently Technical Volunteer [<b>ARTH THE SCHOOL OF TECHNOLOGIES</b>](https://rightarth.com/) under the mentorship of [<b>Mr. Vimal Daga</b>](https://www.linkedin.com/in/vimaldaga/) sir. And As a professional working as <b>Software Developer in Aspire System(India)</b> , I have the immense aptitude for learning and the ability to adapt and excel in a multicultural environment. As a person, I am friendly and good at motivating people in a team environment. With my hard work, I developed effective research and analytical skills as well as the ability to meet deadlines under pressure. I always passionate about understanding the core concepts behind different popular Technological Fields. 
 
 
 </div>
@@ -43,7 +43,7 @@
 
 ## Technical Skills 🛠 
 
-<img align='left' src='https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif' width='250"'>
+<img align='left' src="https://assets.materialup.com/uploads/ea4aaf76-3f09-4b1c-9846-bbb2128474d5/preview.gif" width='250"'>
 
 As we all know that under <b>engineering</b>, technical skills always provide unique gratitude and passion for any technical guy. So these technical skills of the engineer always help him, in the same way at all the time, Just as <b>Yodhya</b> protects his life from his enemies using the weapons and scriptures in a war. I am also an engineer, so I too should have such weapons and scriptures, so I  have some technical skills too,  which are the following but I am also in a learning state and learning many tools and technologies under the World Record Holder [<b>Mr. Vimal Daga</b>](https://www.linkedin.com/in/vimaldaga/?originalSubdomain=in) in the one of the best training Program [<b>Arth-the school of technologies</b>](https://rightarth.com/) of [<b>Linux World informatics Pvt Ltd</b>](https://www.linuxworldindia.org/).
 
