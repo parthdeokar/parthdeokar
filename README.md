@@ -14,7 +14,7 @@
  
  
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/parthdeokar)
-[![Linkedin Badge](https://img.shields.io/badge/-Amit%20Sharma-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/parth-praveendeokar/)](https://www.linkedin.com/in/parth-praveendeokar/) [![Twitter Badge](http://img.shields.io/badge/-@AmitSharma-1ca0f1?style=social&logo=twitter&logoColor=blue&link=https://twitter.com/ParthDeokar)](https://twitter.com/ParthDeokar) [![GitHub followers](https://img.shields.io/github/followers/hac?label=Follow&style=social)](github.com/parthdeokar)
+[![Linkedin Badge](https://img.shields.io/badge/-Parth%20Praveen%20deokar-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/parth-praveendeokar/)](https://www.linkedin.com/in/parth-praveendeokar/) [![Twitter Badge](http://img.shields.io/badge/-@Parthdeokar-1ca0f1?style=social&logo=twitter&logoColor=blue&link=https://twitter.com/ParthDeokar)](https://twitter.com/ParthDeokar) [![GitHub followers](https://img.shields.io/github/followers/hac?label=Follow&style=social)](github.com/parthdeokar)
 
 
 
@@ -27,7 +27,7 @@
 <!--About Me-->
 <div>
  <p>
-  <img width="240" height="230" align='right' src="https://bit.ly/3dDVpj4"> 
+  <img width="230" height="260" align='right' src="https://github.com/parthdeokar/parthdeokar/blob/main/149.jpg"> 
 </p>
   
 
@@ -43,7 +43,7 @@
 
 ## Technical Skills 🛠 
 
-<img align='left' src="https://assets.materialup.com/uploads/ea4aaf76-3f09-4b1c-9846-bbb2128474d5/preview.gif" width='250"'>
+<img align='left' src="https://github.com/parthdeokar/parthdeokar/blob/main/giphy.gif" width='250"'>
 
 As we all know that under <b>engineering</b>, technical skills always provide unique gratitude and passion for any technical guy. So these technical skills of the engineer always help him, in the same way at all the time, Just as <b>Yodhya</b> protects his life from his enemies using the weapons and scriptures in a war. I am also an engineer, so I too should have such weapons and scriptures, so I  have some technical skills too,  which are the following but I am also in a learning state and learning many tools and technologies under the World Record Holder [<b>Mr. Vimal Daga</b>](https://www.linkedin.com/in/vimaldaga/?originalSubdomain=in) in the one of the best training Program [<b>Arth-the school of technologies</b>](https://rightarth.com/) of [<b>Linux World informatics Pvt Ltd</b>](https://www.linuxworldindia.org/).
 
